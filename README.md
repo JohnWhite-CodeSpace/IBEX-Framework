@@ -57,8 +57,8 @@ A detailed technical description of the framework, including API documentation g
   `docs/ibexframework.pdf`
 
 - **Online HTML documentation**:  
-  *(link to be added after publication via GitHub Pages)*
-
+  **https://johnwhite-codespace.github.io/IBEX-Framework/**
+   
 ---
 
 ## Requirements
