@@ -1,0 +1,30 @@
+API Reference
+=============
+
+TensorCreator
+-------------
+
+.. automodule:: IBEX_Module.TensorCreator
+   :members:
+   :show-inheritance:
+
+TensorAnalyzer
+--------------
+
+.. automodule:: IBEX_Module.TensorAnalyzer
+   :members:
+   :show-inheritance:
+
+FileMerger
+----------
+
+.. automodule:: IBEX_Module.FileMerger
+   :members:
+   :show-inheritance:
+
+IBEX_NN
+-------
+
+.. automodule:: IBEX_Module.IBEX_NN
+   :members:
+   :show-inheritance:
